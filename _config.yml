@@ -1,12 +1,6 @@
-
-title: The Musings of Yefim Vedernikoff
-
+title: My name is Marcel
 twitter_username: johndoe
-
 github_username: johndoe
-
 email: john@doe.com
-
-baseurl: "/my_name_is_marcel"
-
+baseurl: /my_name_is_marcel
 remote_theme: yefim/yefeme

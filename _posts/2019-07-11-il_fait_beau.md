@@ -1,6 +1,6 @@
 ---
 title: Il fait beau
-layout: post
+layout: page-1
 
 ---
 ### Blabla Blou
